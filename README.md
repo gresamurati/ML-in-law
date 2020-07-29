@@ -3,6 +3,8 @@
  
 <br>
 This is a topic modeling project of 45 landmark Supreme Court cases. This project discerns important topics throughout these cases and also finds important details of an individual case via a knowledge graph.  <br>
+
+
 ## Motivation
 
 <br>
