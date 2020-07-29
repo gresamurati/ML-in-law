@@ -17,7 +17,7 @@ For this project, we were interested in discovering underlying topics of 45  lan
 For this project we used Python, NLTK, spaCy, Gensim, pyLDAvis.
 <br>
 
-#### Some images from our Powerpoint below
+## Some images from our Powerpoint below
 <br>
 
 <img width="800" alt="Screen Shot 2020-07-29 at 3 23 41 PM" src="https://user-images.githubusercontent.com/59184189/88844038-0cf42e80-d1b0-11ea-9a2a-c6d35222a142.png">
