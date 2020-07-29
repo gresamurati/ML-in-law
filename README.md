@@ -30,7 +30,4 @@ Some images from our Powerpoint:
 
 <img width="762" alt="Screen Shot 2020-07-29 at 3 35 22 PM" src="https://user-images.githubusercontent.com/59184189/88845003-850f2400-d1b1-11ea-8fab-fd5a176dda62.png">
 
-<img width="765" alt="Screen Shot 2020-07-29 at 3 36 18 PM" src="https://user-images.githubusercontent.com/59184189/88845053-96f0c700-d1b1-11ea-8692-c185b106c248.png">
-
-
 
