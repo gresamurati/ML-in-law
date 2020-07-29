@@ -14,20 +14,18 @@ For this project, we were interested in discovering underlying topics of 45  lan
 Some images from our Powerpoint:
 <br>
 
-<img width="527" alt="Screen Shot 2020-07-29 at 3 23 41 PM" src="https://user-images.githubusercontent.com/59184189/88844038-0cf42e80-d1b0-11ea-9a2a-c6d35222a142.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 23 41 PM" src="https://user-images.githubusercontent.com/59184189/88844038-0cf42e80-d1b0-11ea-9a2a-c6d35222a142.png">
 
-<img width="507" alt="Screen Shot 2020-07-29 at 3 22 22 PM" src="https://user-images.githubusercontent.com/59184189/88844061-1aa9b400-d1b0-11ea-934f-6ea2c722649b.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 22 22 PM" src="https://user-images.githubusercontent.com/59184189/88844061-1aa9b400-d1b0-11ea-934f-6ea2c722649b.png">
 
-<img width="516" alt="Screen Shot 2020-07-29 at 3 22 28 PM" src="https://user-images.githubusercontent.com/59184189/88844069-1ed5d180-d1b0-11ea-9622-fa20555a741a.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 22 28 PM" src="https://user-images.githubusercontent.com/59184189/88844069-1ed5d180-d1b0-11ea-9622-fa20555a741a.png">
 
-<img width="739" alt="Screen Shot 2020-07-29 at 3 36 33 PM" src="https://user-images.githubusercontent.com/59184189/88844966-77599e80-d1b1-11ea-8775-c41fa44487d2.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 36 18 PM" src="https://user-images.githubusercontent.com/59184189/88845053-96f0c700-d1b1-11ea-8692-c185b106c248.png">
 
-<img width="765" alt="Screen Shot 2020-07-29 at 3 36 18 PM" src="https://user-images.githubusercontent.com/59184189/88845053-96f0c700-d1b1-11ea-8692-c185b106c248.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 36 33 PM" src="https://user-images.githubusercontent.com/59184189/88844966-77599e80-d1b1-11ea-8775-c41fa44487d2.png">
 
-<img width="456" alt="Screen Shot 2020-07-29 at 3 22 53 PM" src="https://user-images.githubusercontent.com/59184189/88844072-21382b80-d1b0-11ea-8700-46753ecd4b9d.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 22 53 PM" src="https://user-images.githubusercontent.com/59184189/88844072-21382b80-d1b0-11ea-8700-46753ecd4b9d.png">
 
-<img width="539" alt="Screen Shot 2020-07-29 at 3 23 10 PM" src="https://user-images.githubusercontent.com/59184189/88844078-2301ef00-d1b0-11ea-9e4d-2e0541af678f.png">
-
-<img width="762" alt="Screen Shot 2020-07-29 at 3 35 22 PM" src="https://user-images.githubusercontent.com/59184189/88845003-850f2400-d1b1-11ea-8fab-fd5a176dda62.png">
+<img width="800" alt="Screen Shot 2020-07-29 at 3 23 10 PM" src="https://user-images.githubusercontent.com/59184189/88844078-2301ef00-d1b0-11ea-9e4d-2e0541af678f.png">
 
 
