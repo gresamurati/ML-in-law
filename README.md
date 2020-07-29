@@ -12,6 +12,11 @@ The legal industry has been slow to embrace technology and automate some of the 
 For this project, we were interested in discovering underlying topics of 45  landmark supreme court cases that have shaped the American history. 
 
 Some images from our Powerpoint:
+<br>
+
+<img width="527" alt="Screen Shot 2020-07-29 at 3 23 41 PM" src="https://user-images.githubusercontent.com/59184189/88844038-0cf42e80-d1b0-11ea-9a2a-c6d35222a142.png">
+
+<img width="511" alt="Screen Shot 2020-07-29 at 3 24 00 PM" src="https://user-images.githubusercontent.com/59184189/88844043-0fef1f00-d1b0-11ea-8c11-628ad8ac8e76.png">
 
 <img width="507" alt="Screen Shot 2020-07-29 at 3 22 22 PM" src="https://user-images.githubusercontent.com/59184189/88844061-1aa9b400-d1b0-11ea-934f-6ea2c722649b.png">
 
@@ -20,3 +25,4 @@ Some images from our Powerpoint:
 <img width="456" alt="Screen Shot 2020-07-29 at 3 22 53 PM" src="https://user-images.githubusercontent.com/59184189/88844072-21382b80-d1b0-11ea-8700-46753ecd4b9d.png">
 
 <img width="539" alt="Screen Shot 2020-07-29 at 3 23 10 PM" src="https://user-images.githubusercontent.com/59184189/88844078-2301ef00-d1b0-11ea-9e4d-2e0541af678f.png">
+
